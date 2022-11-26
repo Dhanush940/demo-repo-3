@@ -2,3 +2,6 @@ Different operations that needs to be perfomed to host a Repository created in t
 git init
 
 git push origin master gives error because we didn't clone this from git repository and is created locally so git has no idea where to push it because it is not connected to anything.
+One way to resolve this issue is :
+Create a repository in github and get the link .
+Type the command get remote add origin and paste the link you copied
