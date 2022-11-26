@@ -1,0 +1,2 @@
+Different operations that needs to be perfomed to host a Repository created in the loacl machine in github are:
+git init
