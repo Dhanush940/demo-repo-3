@@ -5,3 +5,7 @@ git push origin master gives error because we didn't clone this from git reposit
 One way to resolve this issue is :
 Create a repository in github and get the link .
 Type the command get remote add origin and paste the link you copied
+Type the command get remote add origin and paste the link you copied
+Type the command get remote add origin and paste the link you copied
+Type the command get remote add origin and paste the link you copied
+Type the command get remote add origin and paste the link you copied
