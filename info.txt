@@ -1,2 +1,4 @@
 Different operations that needs to be perfomed to host a Repository created in the loacl machine in github are:
 git init
+
+git push origin master gives error because we didn't clone this from git repository and is created locally so git has no idea where to push it because it is not connected to anything.
